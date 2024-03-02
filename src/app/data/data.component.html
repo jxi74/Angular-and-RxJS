@@ -1,0 +1,11 @@
+<!--&lt;!&ndash;<button (click)="getData()">Get Data</button>&ndash;&gt;-->
+<!--<p>From the URL: {{symbol}}</p>-->
+<!--<p>URL: {{url}}</p>-->
+
+<!--&lt;!&ndash;<div echarts [options]="chartOption" class="demo-chart"></div>&ndash;&gt;-->
+<div echarts [options]="options" [merge]="updateOptions" class="demo-chart"></div>
+<span>
+  <button id="backBtn" [routerLink]="'/'">Back to Homepage</button>
+  <button (click)="changeView()" id="hundredDays" style="">Last 100 Days</button>
+  <button (click)="changeView2()" id="lifeTime">Lifetime</button>
+</span>

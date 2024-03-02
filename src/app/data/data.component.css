@@ -1,0 +1,19 @@
+.demo-chart {
+  height: 400px;
+}
+
+#backBtn {
+  user-select: none;
+  cursor: pointer;
+  margin-left: 400px;
+}
+
+#hundredDays {
+  margin-left: 350px;
+  margin-right: 350px;
+  cursor: pointer;
+}
+
+#lifeTime {
+  cursor: pointer;
+}
