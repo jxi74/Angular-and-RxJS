@@ -1,5 +1,9 @@
 # StocksApp
 
+A Project that represents the use of Vue.js and Google Cloud Firestore
+Stocks Searcher
+- https://jxi74.github.io/Angular-and-RxJS/
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
 
 ## Development server
