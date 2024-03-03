@@ -4,8 +4,8 @@
 ## Stocks Searcher
 Link: https://jxi74.github.io/Angular-and-RxJS/
 [<img src="https://github.com/jxi74/Angular-and-RxJS/blob/main/stocksearcher.PNG">](https://jxi74.github.io/Angular-and-RxJS/)
-[<img src="https://github.com/jxi74/Angular-and-RxJS/blob/main/100days.PNG">](https://jxi74.github.io/Angular-and-RxJS/)
-[<img src="https://github.com/jxi74/Angular-and-RxJS/blob/main/lifetime.PNG">](https://jxi74.github.io/Angular-and-RxJS/)
+<img src="https://github.com/jxi74/Angular-and-RxJS/blob/main/100days.PNG">
+<img src="https://github.com/jxi74/Angular-and-RxJS/blob/main/lifetime.PNG">
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
