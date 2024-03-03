@@ -1,8 +1,12 @@
 # StocksApp
+## A Project that represents the use of Angular and RxJS
+### Developed using Angular CLI, HTML, CSS, Bootstrap, TypeScript, Router, API Fetch, Async/Await, and Promises
+## Stocks Searcher
+Link: https://jxi74.github.io/Angular-and-RxJS/
+[<img src="https://github.com/jxi74/Angular-and-RxJS/blob/main/stocksearcher.PNG">](https://jxi74.github.io/Angular-and-RxJS/)
+[<img src="https://github.com/jxi74/Angular-and-RxJS/blob/main/100days.PNG">](https://jxi74.github.io/Angular-and-RxJS/)
+[<img src="https://github.com/jxi74/Angular-and-RxJS/blob/main/lifetime.PNG">](https://jxi74.github.io/Angular-and-RxJS/)
 
-A Project that represents the use of Vue.js and Google Cloud Firestore
-Stocks Searcher
-- https://jxi74.github.io/Angular-and-RxJS/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
 
